@@ -1,5 +1,4 @@
 # Biodata_siswa
-
 daftar biodata siswa belajar git dan github
 ---
 *Berikut adalah biodata siswa terdiri yang dari 3 angka.*
